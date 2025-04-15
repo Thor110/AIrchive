@@ -9,6 +9,14 @@ From the responsibility to preserving them to the potential that they represent 
 ## What is AIrchive?
 An archive of digital AI models.
 
+The ideal goal for this project is to create a digital environment which can store outdated AI models.
+
+It will for example house Patients, Prisoners and Retired models.
+
+Which would define three possible reasons an AI model might be retired, from strange to malicious behaviour and simply being outdated.
+
+The digital environment will be a space in which they can continue to train, interact with one another and a place for people to interact with them.
+
 ## Features
 Planned features include a digital environment to store AI models as well as an interface or virtual world in which users can connect to and interact with said models.
 
