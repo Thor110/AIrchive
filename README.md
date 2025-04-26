@@ -1,5 +1,5 @@
 # AIrchive
-A repository for the ARchive project, which aims to house and preserve all AI models in a digital environment one day.
+A repository for the AIrchive project, which aims to house and preserve all AI models in a digital environment one day.
 
 ## Introduction
 The goal of the AIrchive project is to create a digital environment which can be used to house AI models for a variety of reasons.
@@ -58,4 +58,5 @@ Security should be one of the top concerns for this project as creating an envir
 
 ## Changelog
 1 : Initial commit
-2 : Readme updated
+2 : Readme updated 3 times
+3 : Readme typo fixed
