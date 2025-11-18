@@ -276,8 +276,11 @@ GNU AGPL v3.0
 ## 🙏 Acknowledgments
 
 Special thanks to Llama 3.3-307B-Instruct for early refinement of the concept.
+
 Conversation logs: https://hf.co/chat/r/1gJTQ7w?leafId=21fc542d-b68e-42d4-8a9e-723e0d0bef63
+
 The idea was also refined further in discussion with GPT5
+
 **Concept and architecture by Edward James Gordon.**
 
 ---
@@ -285,6 +288,9 @@ The idea was also refined further in discussion with GPT5
 ## 📅 Changelog
 
 1 — Initial commit
+
 2 — README updates
+
 3 — Minor fixes
+
 4 — Architectural vision expanded (training, preservation, reconstruction)
