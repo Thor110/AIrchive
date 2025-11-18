@@ -235,7 +235,17 @@ Additionally : Quite some time back I also wrote a "Gallery of Babel" applicatio
 
 Not to mention that Hexagons are the Bestagons.
 
-(Screenshots of the blockout geometry may be added in a future update.)
+Here is a preview of the main and hub tiles.
+
+<div align="center">
+  <img src="Images/gallery-tiles.png" alt="Main & Hub Tiles">
+</div>
+
+This is a preview of the layout using 7 main rooms, 6 hub rooms and 3 layers.
+
+<div align="center">
+  <img src="Images/gallery-preview.png" alt="Preview : 7 Main Rooms, 6 Hub Rooms, 3 layers">
+</div>
 
 ## 📚 What Makes This Different?
 
