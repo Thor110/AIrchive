@@ -551,3 +551,5 @@ The idea was also refined further in discussion with GPT5
 3 — Minor fixes
 
 4 — Architectural vision expanded (training, preservation, reconstruction)
+
+5 - Search space redefined
