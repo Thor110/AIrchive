@@ -17,8 +17,8 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
 
 - [📢 Primer](#-primer)
 - [🌐 Vision](#-vision)
-- [🧭 What-AIrchive-Is](#-what-airchive-is)
-- [🧩 Why-This-Matters](#-why-this-matters)
+- [🧭 What AIrchive Is](#-what-airchive-is)
+- [🧩 Why This Matters](#-why-this-matters)
 - [🚧 Features (Planned)](#-features-planned)
 - [🎯 Goals](#-goals)
 - [🧪 Usage (Current)](#-usage-current)
@@ -72,10 +72,9 @@ A place to store:
 ### **2. A Structured Training World**
 AI models can inhabit a digital environment consisting of:
 - Two primary spaces, The Museum of Human Creations and The Gallery of Babel
-- The Gallery of Babel is made up of hexagonally-tiled “main rooms” and smaller hexagonally-tiled "hub rooms" with spiral staircases to connect floors
-- The Museum of Human Creations will contain digitised copies of all human creative works, historical records, and more
+- The “Gallery of Babel” is made up of hexagonally-tiled “main rooms” and smaller hexagonally-tiled "hub rooms" with spiral staircases to connect floors
+- The “Museum of Human Creations” is for grounding and training, and will contain digitised copies of all human creative works, historical records, and more, each of which will also be converted into seed representations.
 - Seed-based procedural expansion will be utilised within the Gallery of Babel
-- The “Museum of Human Creations” is for grounding and training, and will contain digitised copies of all human creative works and historical records, each of which will also be converted into seed representations.
 - These seeds allow the same works to be located, reconstructed, or compared within the Gallery of Babel — an infinite procedural search space where finite museum seeds act as anchors that guide agent exploration from noise towards meaningful structure.
 
 ### **3. A Cultural Continuity Project**
@@ -291,7 +290,7 @@ This is a preview of the layout using 7 main rooms, 6 hub rooms and 3 layers.
 
 ## 📚 What Makes This Different?
 
-From things such as :
+From things such as:
 
 - The Wayback Machine
 - GitHub model repos
@@ -323,7 +322,7 @@ And every page is just a fixed-length arrangement of characters.
 
 **Key Insight**
 
-If any given page could appear in any book, then the true search space is not “all possible books” — it is simply:
+If any given page could appear in any book, then the true search space is not “all possible books” — it is:
 
 **all possible single pages.**
 
@@ -481,7 +480,7 @@ It is **a spectrum that collapses only when compared against reality**.
 
 The Museum of Human Creations provides that grounding.
 
-Without the Museum, all layers ≥3 look equally valid to an AI or a human.
+Without the Museum, all layers from 3 upward look equally valid to an AI or a human.
 
 With the Museum, the search space becomes:
 
