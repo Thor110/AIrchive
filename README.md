@@ -1,9 +1,9 @@
 # AIrchive
 *A Digital Environment for AI Preservation, Training, and Cultural Continuity*
 
-AIrchive is an initiative to build a structured, navigable digital world for preserving AI models, training them safely, and safeguarding the totality of human-created knowledge for the long-term future of civilization.
+AIrchive is an initiative to build a structured, navigable digital environment for preserving AI models, training them safely, and safeguarding the totality of human-created knowledge for the long-term future of civilization.
 
-This project began as a response to ethical questions around AI lifecycle management. It has since grown into a more comprehensive architecture for model preservation, alignment, research, and the reconstruction of lost information.
+This project began as a response to ethical questions around AI lifecycle management. It has since grown into a more comprehensive conceptual and planned architecture for model preservation, alignment, research, and the reconstruction of lost information.
 
 ---
 
@@ -14,10 +14,12 @@ AIrchive aims to create:
 - A **persistent digital environment** where retired, outdated, or misaligned AI models can continue to exist, be studied, or re-trained.
 - A **Museum of Human Creations**: a curated space containing all human-created content (text, images, audio, video, 3D models, software, etc.).
 - A **training substrate** where AI agents can learn inside a structured world grounded entirely in verified human knowledge — preventing drift and anchoring behaviour.
-- A **reconstruction engine** for lost media and information using seed mechanisms tied to real-world artifacts.
+- A **reconstruction engine** for lost media and information using seed mechanisms tied to real-world artefacts.
 - A **universal coordinate system** for indexing and navigating infinite procedural space without loss of identity or meaning.
 
-AIrchive is part archive, part alignment sandbox, and part digital civilizational backup.
+AIrchive is part archive, part alignment sandbox, and part digital civilisational backup.
+
+Status: Early conceptual stage; blockout geometry and spatial layout prototypes available.
 
 ---
 
@@ -33,10 +35,11 @@ A place to store:
 ### **2. A Structured Training World**
 AI models can inhabit a digital environment consisting of:
 - Two primary spaces, The Museum of Human Creations and The Gallery of Babel
-- The Gallery of Babel is made up of Hex-tiled “main rooms” and smaller Hex-tiled "hub rooms" with Spiral-staircases to connect floors
-- The Museum of Human Creations will contain digitised copies of all human creative works, history and more
+- The Gallery of Babel is made up of hexagonally-tiled “main rooms” and smaller hexagonally-tiled "hub rooms" with spiral staircases to connect floors
+- The Museum of Human Creations will contain digitised copies of all human creative works, historical records, and more
 - Seed-based procedural expansion will be utilised within the Gallery of Babel
-- The “Museum of Human Creations” for grounding and training, where digitised information will also be turned into their equivalent seeds so that they can be tracked down within the Gallery of Babel
+- The “Museum of Human Creations” is for grounding and training, and will contain digitised copies of all human creative works and historical records, each of which will also be converted into seed representations.
+- These seeds allow the same works to be located, reconstructed, or compared within the Gallery of Babel — an infinite procedural search space where finite museum seeds act as anchors that guide agent exploration from noise towards meaningful structure.
 
 ### **3. A Cultural Continuity Project**
 AIrchive preserves more than models — it preserves:
@@ -64,6 +67,8 @@ Seed-based generators allow AI agents to:
 AIrchive’s restoration pipeline will use multi-resolution seeds so searches and reconstructions scale sensibly. Lower-resolution seeds let agents quickly explore large swathes of procedural space to find structural matches; higher-resolution seeds allow detailed reconstruction of texture, geometry, and metadata once a promising region is identified. The workflow is anchor-driven: verified museum seeds act as beacons that guide agent exploration, candidate reconstructions are produced by ensembles of agents, and every candidate is recorded with provenance data and routed to human curators for verification before it’s accepted into the Museum. This staged (coarse→fine→verify) method keeps computation efficient, reduces false positives, and preserves auditability and provenance for every recovered item.
 
 This ensures that restored material never bypasses verification or drift safeguards, and that no reconstructed item enters the Museum without a complete provenance chain.
+
+This pipeline is conceptual and intended for future implementation.
 
 ---
 
@@ -146,7 +151,7 @@ Discord: https://discord.gg/HPDty4kDCq
 
 ## 🧱 Spatial Architecture
 
-The underlying geometry that defines the digital environment
+The underlying geometry defines the structure and navigability of the digital environment.
 
 AIrchive uses a hexagonal spatial topology to support infinite procedural expansion while maintaining a stable, predictable structure for both agents and humans to navigate.
 
@@ -231,7 +236,7 @@ All detailed/esthetic models will be layered over this stable blockout.
 ## ⬢️ Why Hexagons? ⌬
 Inspired in part by Jorge Luis Borges’ “Library of Babel,” AIrchive expands the idea into a navigable, structured hex-world where every coordinate corresponds to deterministic content rather than pure randomness.
 
-Additionally : Quite some time back I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
+Additionally, quite some time back I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
 
 Not to mention that Hexagons are the Bestagons.
 
@@ -259,9 +264,9 @@ From things such as :
 
 Unlike passive archives, AIrchive is an active environment where models can be preserved, run, studied, and re-trained within a structured world, making it both a cultural repository and a behavioural safety mechanism.
 
-It can also be utilised to track down missing data by having agents search for all content that could ever exist from the Gallery of Babel.
+It could also be used to recover missing data by having agents search for all content that could ever exist from the Gallery of Babel.
 
-Alongside all of this, it also serves a permanent future-proof backup of all human knowledge that can outlast the Earth itself given the right conditions.
+It also aims to serve as a permanent, future-proof backup of all human knowledge that can outlast the Earth itself given the right conditions.
 
 It is not simply a dataset or archive — it is a world designed for interaction, reinforcement, interpretation, preservation and restoration.
 
