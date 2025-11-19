@@ -7,6 +7,12 @@ This project began as a response to ethical questions around AI lifecycle manage
 
 ---
 
+## 📢 Primer
+
+Before reading this, ensure you are familiar with the Library of Babel concept. This project generalises that idea into a structured, procedural, navigable architecture. Without that conceptual grounding, many parts may feel like jumping into page 100 of a 100-page book.
+
+""The Library of Babel" is a short story by Argentine author and librarian Jorge Luis Borges, conceiving of a universe in the form of a vast library containing all possible 410-page books of a certain format and character set." - https://en.wikipedia.org/wiki/The_Library_of_Babel
+
 ## 🌐 Vision
 
 AIrchive aims to create:
