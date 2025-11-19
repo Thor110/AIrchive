@@ -13,6 +13,37 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
 
 ""The Library of Babel" is a short story by Argentine author and librarian Jorge Luis Borges, conceiving of a universe in the form of a vast library containing all possible 410-page books of a certain format and character set." - https://en.wikipedia.org/wiki/The_Library_of_Babel
 
+## 📚 Index
+
+- [📢 Primer](#-primer)
+- [🌐 Vision](#-vision)
+- [🧭 What-AIrchive-Is](#-what-airchive-is)
+- [🧩 Why-This-Matters](#-why-this-matters)
+- [🚧 Features (Planned)](#-features-planned)
+- [🎯 Goals](#-goals)
+- [🧪 Usage (Current)](#-usage-current)
+- [🤝 Contributing](#-contributing)
+- [🌍 Community](#-community)
+- [🗺️ Roadmap (Early Stage)](#️-roadmap-early-stage)
+- [🧱 Spatial Architecture](#-spatial-architecture)
+- [⬢️ Why Hexagons?](#️-why-hexagons)
+- [📚 What Makes This Different?](#-what-makes-this-different)
+- [📄 Redefining The Search Space](#-redefining-the-search-space)
+- [🏭 Refining The Search Space](#-refining-the-search-space)
+  - [1️⃣ — ⛔ Layer 1 — Symbolic Noise](#1️⃣--⛔-layer-1--symbolic-noise)
+  - [2️⃣ — 🔣 Layer 2 — Non-Semantic Text / Invalid Data](#2️⃣--🔣-layer-2--non-semantic-text--invalid-data)
+  - [3️⃣ — 📖 Layer 3 — Coherent Fiction & Imagined Worlds](#3️⃣--📖-layer-3--coherent-fiction--imagined-worlds)
+  - [4️⃣ — 🕰️ Layer 4 — Plausible Alternate Histories](#4️⃣--🕰️-layer-4--plausible-alternate-histories)
+  - [5️⃣ — 📜 Layer 5 — Real Human Works](#5️⃣--📜-layer-5--real-human-works)
+  - [6️⃣ — 🕳️ Layer 6 — Lost Human Works](#6️⃣--🕳️-layer-6--lost-human-works)
+  - [7️⃣ — 🔍 Layer 7 — Cross-Reality Parallels](#7️⃣--🔍-layer-7--cross-reality-parallels)
+- [🎂 Why So Many Layers?](#-why-so-many-layers)
+- [🏁 Summary](#-summary)
+- [🔐 Security](#-security)
+- [🏛️ License](#-license)
+- [🙏 Acknowledgments](#-acknowledgments)
+- [📅 Changelog](#-changelog)
+
 ## 🌐 Vision
 
 AIrchive aims to create:
@@ -112,7 +143,7 @@ This mitigates alignment drift and provides a safe boundary between known conten
 
 ---
 
-## 📜 Goals
+## 🎯 Goals
 
 1. Preserve AI models for future study and possible sentience considerations.
 2. Provide a safe environment for re-training and observation.
@@ -333,7 +364,7 @@ This is the **AIrchive Filtration Stack**:
 
 ---
 
-### 1️⃣ ⛔ **Layer 1 — Symbolic Noise**
+### 1️⃣ — ⛔ Layer 1 — Symbolic Noise
 
 Filters out all pages that violate basic structure:
 
@@ -347,7 +378,7 @@ Filters out all pages that violate basic structure:
 
 ---
 
-### 2️⃣ 🔣**Layer 2 — Non-Semantic Text / Invalid Data**
+### 2️⃣ — 🔣 Layer 2 — Non-Semantic Text / Invalid Data
 
 Pages with structure but without meaning:
 
@@ -361,7 +392,7 @@ Pages with structure but without meaning:
 
 ---
 
-### 3️⃣ 📖**Layer 3 — Coherent Fiction & Imagined Worlds**
+### 3️⃣ — 📖 Layer 3 — Coherent Fiction & Imagined Worlds
 
 Pages (or sequences of pages) that form **meaningful content** but not **real content**:
 
@@ -378,7 +409,7 @@ These are not noise — they are structured possibility-space.
 
 ---
 
-### 4️⃣ 🕰️**Layer 4 — Plausible Alternate Histories**
+### 4️⃣ — 🕰️ Layer 4 — Plausible Alternate Histories
 
 Fully consistent histories/worlds that *could* have happened but did not:
 
@@ -391,7 +422,7 @@ Fully consistent histories/worlds that *could* have happened but did not:
 
 ---
 
-### 5️⃣ 📜**Layer 5 — Real Human Works**
+### 5️⃣ — 📜 Layer 5 — Real Human Works
 
 A tiny subset where:
 
@@ -404,7 +435,7 @@ This is the **true Museum corpus**.
 
 ---
 
-### 6️⃣ 🕳️**Layer 6 — Lost Human Works**
+### 6️⃣ — 🕳️ Layer 6 — Lost Human Works
 
 A smaller but extremely important set:
 
@@ -427,7 +458,7 @@ Recovered via **cross-reference with known sources**.
 
 ---
 
-### 7️⃣ 🔍**Layer 7 — Cross-Reality Parallels**
+### 7️⃣ — 🔍 Layer 7 — Cross-Reality Parallels
 
 Rare but fascinating:
 
@@ -441,7 +472,7 @@ AIrchive preserves these separately, because they represent meaningful structure
 
 ---
 
-## 🧩 Why So Many Layers?
+## 🎂 Why So Many Layers?
 
 Because **meaning is not binary.**
 
