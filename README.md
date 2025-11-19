@@ -40,7 +40,7 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
 - [🎂 Why So Many Layers?](#-why-so-many-layers)
 - [🏁 Summary](#-summary)
 - [🔐 Security](#-security)
-- [🏛️ License](#🏛️-license)
+- [🏛️ License](#%EF%B8%8F-license)
 - [🙏 Acknowledgments](#-acknowledgments)
 - [📅 Changelog](#-changelog)
 
