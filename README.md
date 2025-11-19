@@ -276,6 +276,40 @@ It also aims to serve as a permanent, future-proof backup of all human knowledge
 
 It is not simply a dataset or archive — it is a world designed for interaction, reinforcement, interpretation, preservation and restoration.
 
+## 📄 Redefining The Search Space
+
+The Library of Babel is usually framed as an impossible, effectively infinite search problem.
+
+Every book, of every possible length, filled with every possible sequence of characters, seems far too large to explore or index.
+
+But this assumption only holds if you treat books as the fundamental unit.
+
+They’re not.
+
+A book is simply a sequence of pages.
+
+And every page is just a fixed-length arrangement of characters.
+
+**Key Insight**
+
+If any given page could appear in any book, then the true search space is not “all possible books” — it is simply:
+
+**all possible single pages.**
+
+Once all possible pages have been generated and evaluated:
+
+- **Any book** can be constructed from these pages
+- **Noise pages** can be discarded once, globally
+- **Meaningful pages** become reusable primitives
+- **All multi-page works (books, scripts, code, etc.)** are just sequences of verified pages
+- **Binary data** can be encoded as pages as well, expanding this to all digital media
+
+Thus, instead of an impossibly large combinatorial library, we reduce the entire search problem to its smallest meaningful unit:
+
+**Search the pages → the books follow automatically.**
+
+This transforms an intractable problem into one that is **finite, deterministic, and parallelisable**, allowing distributed systems to filter the entire space orders of magnitude faster than searching complete books.
+
 ## 🔐 Security
 
 Security is critical.
