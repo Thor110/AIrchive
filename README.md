@@ -1,7 +1,7 @@
 # AIrchive
 *A Digital Environment for AI Preservation, Training, and Cultural Continuity*
 
-AIrchive is an initiative to build a structured, navigable digital environment for preserving AI models, training them safely, and safeguarding the totality of human-created knowledge for the long-term future of civilization.
+AIrchive is an initiative to build a structured, navigable digital environment for preserving AI models, training them safely, and safeguarding the totality of human-created knowledge for the long-term future of civilisation.
 
 This project began as a response to ethical questions around AI lifecycle management. It has since grown into a more comprehensive conceptual and planned architecture for model preservation, alignment, research, and the reconstruction of lost information.
 
@@ -42,6 +42,14 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
   - [2️⃣ — 🔀 Book Specification (The Composite Unit)](#2%EF%B8%8F⃣----book-specification-the-composite-unit)
   - [3️⃣ — 📈 Conclusion on the Deterministic Foundation](#3%EF%B8%8F⃣----conclusion-on-the-deterministic-foundation)
 - [🎂 Why So Many Layers?](#-why-so-many-layers)
+- [🧮 Deterministic Filtration Methods](#)
+  - [1️⃣ — 🔢 - Shannon Entropy Analysis (Layers 1–2)](#)
+  - [2️⃣ — 📏 - Structural Determinism Rules](#)
+  - [3️⃣ — 🧪 - Format Validators & File-Type Signatures (Layer 2)](#)
+  - [4️⃣ — 📊 - Semantic Graph Consistency (Layer 3)](#)
+  - [5️⃣ — ⏳ - Reality Anchoring (Layers 4–5)](#)
+  - [6️⃣ — 🏺 - Fragment Correlation Engine (Layer 6)](#)
+  - [7️⃣ — 🌍 - Adjacent Reality Classifier (Layer 7)](#)
 - [🏁 Summary](#-summary)
 - [🔐 Security](#-security)
 - [🏛️ License](#%EF%B8%8F-license)
@@ -217,7 +225,7 @@ The open walls face the hub rooms.
 
 20 m diameter
 
-Act as junctions between main rooms
+Act as junctions between the main rooms
 
 Contain access points, signposting, AI routing nodes, and vertical connections
 
@@ -255,7 +263,7 @@ Boolean-cut hubs and corridors with perfect alignment
 
 Seam-free tiling across a 3×3 test grid
 
-Collections split into “Main Room”, “Hub Room”, “Demonstration Pieces”, and “Vertical Demonstration”
+Collections are currently split into “Main Room”, “Hub Room”, “Demonstration Pieces”, and “Vertical Demonstration”
 
 These serve as the collisionless hitboxes used for:
 
@@ -269,14 +277,14 @@ User traversal
 
 Infinite hex-grid tiling
 
-All detailed/esthetic models will be layered over this stable blockout.
+All detailed/aesthetic models will be layered over this stable blockout.
 
 ---
 
 ## ⬢️ Why Hexagons? ⌬
 Inspired in part by Jorge Luis Borges’ “Library of Babel,” AIrchive expands the idea into a navigable, structured hex-world where every coordinate corresponds to deterministic content rather than pure randomness.
 
-Additionally, quite some time back I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
+Additionally, quite some time back, I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
 
 Not to mention that Hexagons are the Bestagons.
 
@@ -286,7 +294,7 @@ Here is a preview of the main and hub tiles.
   <img src="Images/gallery-tiles.png" alt="Main & Hub Tiles">
 </div>
 
-This is a preview of the layout using 7 main rooms, 6 hub rooms and 3 layers.
+This is a preview of the layout featuring 7 main rooms, 6 hub rooms and 3 layers.
 
 <div align="center">
   <img src="Images/gallery-preview.png" alt="Preview : 7 Main Rooms, 6 Hub Rooms, 3 layers">
@@ -304,9 +312,9 @@ From things such as:
 
 Unlike passive archives, AIrchive is an active environment where models can be preserved, run, studied, and re-trained within a structured world, making it both a cultural repository and a behavioural safety mechanism.
 
-It could also be used to recover missing data by having agents search for all content that could ever exist from the Gallery of Babel.
+It could also be used to recover missing data by having agents search for all content that could ever exist in the Gallery of Babel.
 
-It also aims to serve as a permanent, future-proof backup of all human knowledge that can outlast the Earth itself given the right conditions.
+It also aims to serve as a permanent, future-proof backup of all human knowledge that can outlast the Earth itself, given the right conditions.
 
 It is not simply a dataset or archive — it is a world designed for interaction, reinforcement, interpretation, preservation and restoration.
 
@@ -360,7 +368,8 @@ Once all possible pages exist, the next challenge is to separate:
 * reconstructions of real but lost content
 * genuinely historical human works
 
-This cannot be done in one step.
+This cannot be accomplished in a single step.
+
 It forms a **hierarchical sieve** — each layer removing another 99.99% of what remains.
 
 This is the **AIrchive Filtration Stack**:
@@ -377,6 +386,7 @@ Filters out all pages that violate basic structure:
 * pages that cannot represent text or binary
 
 **Removes:** ~99.999999999999%
+
 **Performed by:** pure math / combinatorics.
 
 ---
@@ -391,6 +401,7 @@ Pages with structure but without meaning:
 * meaningless repetition (“cat cat cat cat…”)
 
 **Removes:** ~99.99% of Layer 1 survivors
+
 **Performed by:** grammatical parsers, entropy analysis, format validators.
 
 ---
@@ -408,6 +419,7 @@ Pages (or sequences of pages) that form **meaningful content** but not **real co
 These are not noise — they are structured possibility-space.
 
 **Cannot be removed.**
+
 **Can only be classified.**
 
 ---
@@ -494,8 +506,134 @@ With the Museum, the search space becomes:
 * reconstructible
 * historically verifiable
 
-Each filtration step shrinks the space dramatically,
-but the stack as a whole is what makes the entire project feasible.
+Each filtration step shrinks the space dramatically, but the stack as a whole is what makes the entire project feasible.
+
+---
+
+## 🧮 Deterministic Filtration Methods
+
+*How each layer of the Filtration Stack is evaluated, sorted, and classified.*
+
+The filtration layers do not rely on subjective interpretation or AI “judgment.”
+
+Each stage uses **fully deterministic, mathematically reproducible rules**, ensuring that every page is classified identically by every agent or system.
+
+Below is the proposed high-level methodology for each layer:
+
+---
+
+### 1️⃣ — 🔢 — Shannon Entropy Analysis (Layers 1–2)
+
+Entropy is a measure of information density.
+
+It allows us to classify pages as follows:
+
+* **Extremely low-entropy pages** → repetition, degenerate sequences → Layer 2 (Non-Semantic).
+* **Extremely high-entropy pages** → incompressible noise → Layer 1 (Symbolic Noise).
+* **Medium entropy** → potentially meaningful → passed upward.
+
+This immediately removes enormous swathes of pages using a single, fast, streaming calculation.
+
+---
+
+### 2️⃣ — 📏 — Structural Determinism Rules
+
+Fast structural rules determine whether a page:
+
+* can represent valid UTF-8 text
+* can be interpreted as binary media
+* can be parsed as a formal document
+* contains consistent encoding
+* contains valid delimiters or format signatures
+
+Examples:
+
+* Check for valid Unicode codepoint sequences
+* Check for binary magic numbers (PNG, ELF, MP3, ZIP, PDF…)
+* Detect malformed multibyte sequences
+* Validate simple grammar graphs (with tolerances)
+
+If it cannot *possibly* represent any known human data structure → Layer 1.
+
+---
+
+### 3️⃣ — 🧪 — Format Validators & File-Type Signatures (Layer 2)
+
+For binary pages:
+
+* Try decoding as common formats
+* Verify headers, length fields, internal checksums
+* Confirm structural coherence
+
+For text pages:
+
+* Validate punctuation frequency
+* Detect dictionary-word density
+* Check against probabilistic language models (purely statistical, e.g., n-gram or Markov models)
+
+If it is syntactically structured but semantically empty → Layer 2.
+
+---
+
+### 4️⃣ — 📊 — Semantic Graph Consistency (Layer 3)
+
+For pages that contain meaningful content, assign to Layer 3 by identifying:
+
+* internal consistency of narrative
+* stable character references
+* recurring semantic structures
+* invented languages with consistent morphologies
+* coherent fictional science or world-rules
+
+This layer is detected entirely through **formal consistency**, not through comparison with the Museum.
+
+---
+
+### 5️⃣ — ⏳ — Reality Anchoring (Layers 4–5)
+
+These layers compare a page’s content against **verified Museum data**:
+
+* Named entities
+* Historical timelines
+* Geographic plausibility
+* Cultural context
+* Scientific facts
+* Chronological markers
+* Stylistic signatures
+
+Matched? → Layer 5 (Real Human Works).
+
+Partially matched? → Layer 4 (Plausible Alternates).
+
+---
+
+### 6️⃣ — 🏺 — Fragment Correlation Engine (Layer 6)
+
+Lost works are identified via:
+
+* partial n-gram overlap
+* statistical author fingerprints
+* stylistic embeddings
+* referenced metadata in verified texts
+* chronology overlap
+* linguistic drift modelling
+
+If a page resembles a *known* but *missing* work → Layer 6.
+
+---
+
+### 7️⃣ — 🌍 — Adjacent Reality Classifier (Layer 7)
+
+Material that:
+
+* is fully coherent
+* fits human behaviour
+* fits physical law
+* but does not match any known human timeline
+
+Lacks historical anchoring but remains fully coherent? → Layer 7 (Adjacent Realities).
+
+This classification is based on **coherence minus historical anchoring**.
 
 ---
 
@@ -532,7 +670,7 @@ A **Book** is a composite object, composed of a fixed number of ordered pages. I
 
 The structural flow is:
 
-1.  **Page Generation:** A **Page Hash** (SHA-256) is generated from the $10,000$ characters.
+1.  **Page Generation:** A **Page Hash** (SHA-256) is generated from the 10,000 characters.
 2.  **Book Construction:** The **Structure Number ($N$)** is selected. (32,767(int16) maximum possible pages)
 3.  **Address Calculation:** The **Book Seed** (SHA-512) is calculated from $N$ and the sequence of Page Hashes. ( N || PageHash1 || PageHash2 || ... )
 
@@ -542,11 +680,9 @@ The Book Seed does not encode the book content directly. It encodes a determinis
 
 ## 🏁 Summary
 
-**Redefining the search space** (single-page insight)
-→ gives you a *finite, enumerable possibility space.*
+**Redefining the search space** (single-page insight) → gives you a *finite, enumerable possibility space.*
 
-**Refining the search space** (layered filtration)
-→ gives you a *pipeline for extracting reality from possibility.*
+**Refining the search space** (layered filtration) → gives you a *pipeline for extracting reality from possibility.*
 
 Both together turn an impossible library into:
 
@@ -565,7 +701,7 @@ The environment will require strong isolation, behaviour monitoring, and multi-l
 
 I propose a completely sandboxed environment where remote access is only possible through VKM (Video Keyboard Mouse) control systems, where people accessing remotely can only view streams and directly control peripherals.
 
-This prevents malicious access or escape in the event agents attempt to do so.
+This prevents malicious access or escape in the event that agents attempt to do so.
 
 ---
 
