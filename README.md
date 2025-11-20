@@ -509,7 +509,7 @@ The single page is the base unit of all knowledge within the AIrchive's Gallery 
 
 | Parameter | Specification | Structural Rationale |
 | :--- | :--- | :--- |
-| **Length** | $\mathbf{10,000}$ characters. | This fixed length is perfectly divisible by 8 (1,250 $\times$ 8), enabling direct, non-ambiguous interpretation of the page as **binary data** (representing advanced media, code, or non-textual data) in addition to human-readable text. |
+| **Length** | 10,000 characters. | This fixed length is perfectly divisible by 8 (1,250 $\times$ 8), enabling direct, non-ambiguous interpretation of the page as **binary data** (representing advanced media, code, or non-textual data) in addition to human-readable text. |
 | **Character Set** | **Full Unicode Range.** 0x0020 - 0x10FFFF | To ensure the possibility space contains *all* human-created language, code, and symbols without artificial constraints. |
 | **Page Content Hash** | **Cryptographic SHA-256.** | This generates a unique, **non-reversible, deterministic fingerprint** for the content of any given page. This hash *is* the page's unique identifier and its fixed position within the universe of all possible pages. |
 
@@ -523,7 +523,7 @@ A **Book** is a composite object, composed of a fixed number of ordered pages. I
 
 | Parameter | Specification | Structural Rationale |
 | :--- | :--- | :--- |
-| **Structure Number ($N$):** | A single, large integer value that encodes all **fixed structural properties** of the book, such as:\<ul\>\<li\>The exact **number of pages** in the volume.\</li\>\<li\>**Formatting data** (e.g., line breaks, paragraph structure, page breaks).\</li\>\<li\>**Metadata indicators** (e.g., identifying itself as a novel, a script, or a data log).\</li\>\</ul\>| This is the **Deterministic Structure Component**. It defines the "vessel" or "format" of the book, independent of the actual characters on the pages. This allows AI agents to filter and search by *format* before content. |
+| **Structure Number ($N$):** | A single, large integer value that encodes all **fixed structural properties** of the book, such as: The exact **number of pages** in the volume. **Formatting data** (e.g., line breaks, paragraph structure, page breaks). **Metadata indicators** (e.g., identifying itself as a novel, a script, or a data log). | This is the **Deterministic Structure Component**. It defines the "vessel" or "format" of the book, independent of the actual characters on the pages. This allows AI agents to filter and search by *format* before content. |
 | **Book Seed Generation:** | The final, deterministic seed must be a hash of the full book definition: $$\mathbf{\text{Book Seed} = \text{SHA-512}(\mathbf{N} \mid\mid \text{Page}_1 \text{ Hash} \mid\mid \text{Page}_2 \text{ Hash} \mid\mid \dots)}$$ | This creates the **Deterministic Content Component**. The final **Book Seed** is a unique, unchangeable, cryptographic fingerprint of the *entire book*. It serves as the definitive **Hexagonal Location** address, proving that the content of the book is perfectly reproducible from its address alone. |
 
 ---
