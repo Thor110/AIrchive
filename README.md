@@ -37,10 +37,10 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
   - [5️⃣ — 📜 Layer 5 — Real Human Works](#5%EF%B8%8F⃣---layer-5--real-human-works)
   - [6️⃣ — 🕳️ Layer 6 — Lost Human Works](#6%EF%B8%8F⃣--%EF%B8%8F-layer-6--lost-human-works)
   - [7️⃣ — 🔍 Layer 7 — Cross-Reality Parallels](#7%EF%B8%8F⃣---layer-7--cross-reality-parallels)
-- [📑 Single Page Search Space Specifactions](#-single-page-search-space-specifications)
-  - [1️⃣ - ⚛️ Page Specification (The Atomic Unit)](#)
-  - [2️⃣ - 🔀 Book Specification (The Composite Unit)](#)
-  - [3️⃣ - 📈 Conclusion on the Deterministic Foundation](#)
+- [📑 Single Page Search Space Specifications](#-single-page-search-space-specifications)
+  - [1️⃣ - ⚛️ Page Specification (The Atomic Unit)](#1%EF%B8%8F⃣---%EF%B8%8F-page-specification-the-atomic-unit)
+  - [2️⃣ - 🔀 Book Specification (The Composite Unit)](#2%EF%B8%8F⃣----book-specification-the-composite-unit)
+  - [3️⃣ - 📈 Conclusion on the Deterministic Foundation](#3%EF%B8%8F⃣----conclusion-on-the-deterministic-foundation)
 - [🎂 Why So Many Layers?](#-why-so-many-layers)
 - [🏁 Summary](#-summary)
 - [🔐 Security](#-security)
@@ -499,7 +499,7 @@ but the stack as a whole is what makes the entire project feasible.
 
 ---
 
-## 📑 Single Page Search Space Specifactions
+## 📑 Single Page Search Space Specifications
 
 This section formalizes the core structural units for the **Gallery of Babel** search space, ensuring that the archive is both infinite in possibility and deterministically addressable (i.e., every book has one and only one address).
 
