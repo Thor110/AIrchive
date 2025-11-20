@@ -37,7 +37,7 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
   - [5️⃣ — 📜 Layer 5 — Real Human Works](#5%EF%B8%8F⃣---layer-5--real-human-works)
   - [6️⃣ — 🕳️ Layer 6 — Lost Human Works](#6%EF%B8%8F⃣--%EF%B8%8F-layer-6--lost-human-works)
   - [7️⃣ — 🔍 Layer 7 — Cross-Reality Parallels](#7%EF%B8%8F⃣---layer-7--cross-reality-parallels)
--[📑 Single Page Search Space Specifactions](#-single-page-search-space-specifications)
+- [📑 Single Page Search Space Specifactions](#-single-page-search-space-specifications)
   - [1️⃣ - ⚛️ Page Specification (The Atomic Unit)](#)
   - [2️⃣ - 🔀 Book Specification (The Composite Unit)](#)
   - [3️⃣ - 📈 Conclusion on the Deterministic Foundation](#)
