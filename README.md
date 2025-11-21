@@ -26,7 +26,7 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
 - [🌍 Community](#-community)
 - [🗺️ Roadmap (Early Stage)](#️-roadmap-early-stage)
 - [🧱 Spatial Architecture](#-spatial-architecture)
-- [⬢️ Why Hexagons?](#️-why-hexagons-)
+- [⬢️ Why Hexagons?](#️-why-hexagons)
 - [📚 What Makes This Different?](#-what-makes-this-different)
 - [📄 Redefining The Search Space](#-redefining-the-search-space)
 - [🏭 Refining The Search Space](#-refining-the-search-space)
@@ -42,14 +42,14 @@ Before reading this, ensure you are familiar with the Library of Babel concept. 
   - [2️⃣ — 🔀 Book Specification (The Composite Unit)](#2%EF%B8%8F⃣----book-specification-the-composite-unit)
   - [3️⃣ — 📈 Conclusion on the Deterministic Foundation](#3%EF%B8%8F⃣----conclusion-on-the-deterministic-foundation)
 - [🎂 Why So Many Layers?](#-why-so-many-layers)
-- [🧮 Deterministic Filtration Methods](#)
-  - [1️⃣ — 🔢 - Shannon Entropy Analysis (Layers 1–2)](#)
-  - [2️⃣ — 📏 - Structural Determinism Rules](#)
-  - [3️⃣ — 🧪 - Format Validators & File-Type Signatures (Layer 2)](#)
-  - [4️⃣ — 📊 - Semantic Graph Consistency (Layer 3)](#)
-  - [5️⃣ — ⏳ - Reality Anchoring (Layers 4–5)](#)
-  - [6️⃣ — 🏺 - Fragment Correlation Engine (Layer 6)](#)
-  - [7️⃣ — 🌍 - Adjacent Reality Classifier (Layer 7)](#)
+- [🧮 Deterministic Filtration Methods](#-deterministic-filtration-methods)
+  - [1️⃣ — 🔢 — Shannon Entropy Analysis (Layers 1–2)](#1%EF%B8%8F⃣----shannon-entropy-analysis-layers-12)
+  - [2️⃣ — 📏 — Structural Determinism Rules](#2%EF%B8%8F⃣----structural-determinism-rules)
+  - [3️⃣ — 🧪 — Format Validators & File-Type Signatures (Layer 2)](#3%EF%B8%8F⃣----format-validators--file-type-signatures-layer-2)
+  - [4️⃣ — 📊 — Semantic Graph Consistency (Layer 3)](#4%EF%B8%8F⃣----semantic-graph-consistency-layer-3)
+  - [5️⃣ — ⏳ — Reality Anchoring (Layers 4–5)](#5%EF%B8%8F⃣----reality-anchoring-layers-45)
+  - [6️⃣ — 🏺 — Fragment Correlation Engine (Layer 6)](#6%EF%B8%8F⃣----fragment-correlation-engine-layer-6)
+  - [7️⃣ — 🌍 — Adjacent Reality Classifier (Layer 7)](#7%EF%B8%8F⃣----adjacent-reality-classifier-layer-7)
 - [🏁 Summary](#-summary)
 - [🔐 Security](#-security)
 - [🏛️ License](#%EF%B8%8F-license)
@@ -68,7 +68,7 @@ AIrchive aims to create:
 
 AIrchive is part archive, part alignment sandbox, and part digital civilisational backup.
 
-Status: Early conceptual stage; blockout geometry and spatial layout prototypes available.
+Status: Early conceptual stage; blockout geometry and spatial layout prototypes are available.
 
 ---
 
@@ -281,10 +281,10 @@ All detailed/aesthetic models will be layered over this stable blockout.
 
 ---
 
-## ⬢️ Why Hexagons? ⌬
+## ⬢️ Why Hexagons?
 Inspired in part by Jorge Luis Borges’ “Library of Babel,” AIrchive expands the idea into a navigable, structured hex-world where every coordinate corresponds to deterministic content rather than pure randomness.
 
-Additionally, quite some time back, I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
+Quite some time back, I also wrote a "Gallery of Babel" application, which further motivated me to work on this, which can be found at : https://github.com/Thor110/GOB
 
 Not to mention that Hexagons are the Bestagons.
 
@@ -492,6 +492,7 @@ AIrchive preserves these separately, because they represent meaningful structure
 Because **meaning is not binary.**
 
 It is not “noise vs truth.”
+
 It is **a spectrum that collapses only when compared against reality**.
 
 The Museum of Human Creations provides that grounding.
@@ -519,6 +520,8 @@ The filtration layers do not rely on subjective interpretation or AI “judgment
 Each stage uses **fully deterministic, mathematically reproducible rules**, ensuring that every page is classified identically by every agent or system.
 
 Below is the proposed high-level methodology for each layer:
+
+These rules are deliberately simple, fast, and fully verifiable, ensuring that classification remains consistent across implementations, agents, and future versions of the system.
 
 ---
 
@@ -736,3 +739,5 @@ The idea was also refined further in discussions with GPT5 and Gemini3
 5 — Search space redefined
 
 6 — Single page search space specifications added
+
+7 — Deterministic filtration methods defined
